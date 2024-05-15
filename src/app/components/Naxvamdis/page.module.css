@@ -1,0 +1,16 @@
+.textColor{
+    color: green;
+}
+.ricxvisZoma{
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+.plusminusZoma{
+    font-size: 40px;
+    color: yellow;
+    cursor: pointer;
+    user-select: none;
+    
+}

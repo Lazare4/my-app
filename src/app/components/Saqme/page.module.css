@@ -1,0 +1,14 @@
+.rame0{
+    color: rgb(86, 166, 235);
+    user-select: none;
+}
+.rame{
+    color: yellow;
+    user-select: none;
+}
+.delete{
+    margin-right: 15px;
+    color: red;
+    cursor: pointer;
+    user-select: none;
+}
