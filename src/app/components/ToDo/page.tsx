@@ -12,6 +12,7 @@ export default function ToDo() {
   
 
 const [toDo, setToDo] = useState([{txtValue: "sia", key: Guid.newGuid()} ])
+
 const [textValue, setTextValue] = useState("")
 const [textColor, setTextColor] = useState(styles.rame0)
 function onclick() {
